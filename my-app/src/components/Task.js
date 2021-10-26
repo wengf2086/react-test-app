@@ -7,8 +7,6 @@ const Task = ({ task, onDelete }) => {
             </h3>
             <p>{task.attribute}</p>
         </div>
-
-        //test
     )
 }
 
